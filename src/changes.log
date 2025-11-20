@@ -1,0 +1,23 @@
+commit b64a0399b93544422a9ed3a026b16d65f5825217
+Author: JorgeEnrique-Lara-Tondorf <9503619@alumnos.ufv.es>
+Date:   Wed Nov 19 19:14:50 2025 +0100
+
+    Adding license file to the repo
+
+commit 83f47080e9dc265bc236b60f7ab106c20ce09e72
+Author: JorgeEnrique-Lara-Tondorf <9503619@alumnos.ufv.es>
+Date:   Wed Nov 19 19:08:37 2025 +0100
+
+    Adding src falder and all its files
+
+commit 2d7f08970daa90c33fa3387eb0a23dd2d0eadc8e
+Author: JorgeEnrique-Lara-Tondorf <9503619@alumnos.ufv.es>
+Date:   Wed Nov 19 17:42:03 2025 +0100
+
+    Adding gitignore to the repro
+
+commit 1e6236ada8c6ac1e0bfd1a4b04e6c200b2edafff
+Author: JorgeEnrique-Lara-Tondorf <9503619@alumnos.ufv.es>
+Date:   Wed Nov 19 17:26:45 2025 +0100
+
+    Adding my first file to the repo
